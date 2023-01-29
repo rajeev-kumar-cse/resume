@@ -183,7 +183,8 @@ ul li{
 }
 @media (max-width: 400px) {
  .top{
-       flex-direction: tow;
+       flex-direction: column;
+       justify-content: center;
     }
    
 }
